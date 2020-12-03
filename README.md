@@ -1,3 +1,4 @@
+Ethan Benedict
 # Welcome to Your New Ethical Hacking Fall 2020 Project!
 
 Your initial project was causing a lot of frustration so I've come up with an alterrnative.  Our goal is to
